@@ -1,2 +1,1 @@
-# cv
-my cv learing to code
+TinDog Starting Files
